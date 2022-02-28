@@ -1,12 +1,18 @@
-body{
-    margin: 0%;
-    text-align: center;
+body {
+  margin: 0%;
+  text-align: center;
 }
-.card{
-    width: 18rem;
+.card {
+  width: 18rem;
 }
-.card-deck{
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+.card-deck {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+h3 {
+  margin: 20px;
+}
+.navbar {
+  margin-bottom: 20px;
 }
